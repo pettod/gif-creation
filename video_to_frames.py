@@ -1,8 +1,5 @@
 import argparse
-import cv2
 import os
-from glob import glob
-from tqdm import tqdm
 
 
 # Parser

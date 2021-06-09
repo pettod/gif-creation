@@ -6,7 +6,7 @@ Tools to make high quality GIF from video file. Used tool is `gifski`. Read more
 
 ```bash
 snap install ffmpeg gifski
-pip install opencv-python
+pip install opencv-python tqdm
 ```
 
 ## Run Steps
